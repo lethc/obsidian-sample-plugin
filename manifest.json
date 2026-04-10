@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "script-runner",
+	"name": "Script Runner",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "Ejecuta tu script Python desde un ícono en la barra lateral o desde la paleta de comandos.",
+	"author": "Eduardo Tinta",
+	"authorUrl": "",
+	"isDesktopOnly": true
 }
